@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple console-based login system implemented in C++. It allows users to register, log in, and retrieve their passwords if forgotten. The user data is stored in a text file named `records.txt`.
+This is a simple console-based login system implemented in C++. It allows users to register, log in, and retrieve their passwords if forgotten. The user data is stored in a text file named `records.txt`.Here i have tried to implement the login form with the c++ programming language only and i love it.
 
 ## Features
 
@@ -76,11 +76,6 @@ Provides options for users who have forgotten their passwords, allowing them to 
 - Implement password hashing for better security.
 - Add input validation to prevent crashes from invalid input.
 - Allow users to update their passwords.
+- user can store its data over here 
 
-## License
 
-This project is open-source and available for anyone to use and modify. Please give appropriate credit when using the code.
-
-## Acknowledgements
-
-This project is a simple demonstration of file handling and user authentication in C++. For more complex implementations, consider learning about databases and secure authentication methods.
